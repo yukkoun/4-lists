@@ -1,5 +1,5 @@
 html {
-    background-color: darksalmon;
+    background-color: lightpink;
 }
 .square-list {
     list-style-type:square;
@@ -10,7 +10,7 @@ color: purple;
 }
 .nav {
     list-style-type: none;
-    background-color: brown;
+    background-color: lightyellow;
     padding: 30px;
     margin-bottom: 50px;
 }
