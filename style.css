@@ -1,0 +1,18 @@
+html {
+    background-color: darksalmon;
+}
+.square-list {
+    list-style-type:square;
+color: purple;
+}
+.letters-list {
+   list-style: upper-alpha; 
+}
+.nav {
+    list-style-type: none;
+    background-color: brown;
+    padding: 30px;
+    margin-bottom: 50px;
+}
+
+    
